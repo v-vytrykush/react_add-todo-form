@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,IACE,SACF,CAEA,WACE,WACF,CAEA,eACE,SACF","file":"main.70f089f4.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.h5 {\n  color: red;\n}\n\n.complited {\n  color: green;\n}\n\n.not-complited {\n  color: red;\n}\n"]}
